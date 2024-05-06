@@ -11,7 +11,7 @@ echo ""
 echo -e "${GREEN}pip installed!\033[0m"
 echo ""
 
-sudo pip install -r requirements.txt
+sudo pip install -r tools/requirements.txt
 echo ""
 echo -e "${GREEN}Requirements!\033[0m"
 echo ""
